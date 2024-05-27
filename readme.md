@@ -3,7 +3,7 @@ ControlRetriever: Harnessing the Power of Instructions for Controllable Retrieva
 </h1>
 
 
-This repo contains the PyTorch implementation of [ControlRetriever: Harnessing the Power of Instructions for Controllable Retrieval](https://arxiv.org/abs/2308.10025v1/)
+This repo contains the PyTorch implementation of [ControlRetriever: Harnessing the Power of Instructions for Controllable Retrieval](https://arxiv.org/abs/2308.10025v1/).
 
 ## News
 
@@ -20,7 +20,7 @@ Please first follow the [instructions](https://github.com/beir-cellar/beir/wiki/
 **2. Prepare Model Checkpoints**
 * Download the pretrained checkpoints of [cocodr-large](https://huggingface.co/OpenMatch/cocodr-large/tree/main). Modify the ```MODEL_NAME``` in [scripts/evaluate_retrieval.sh](scripts/evaluate_retrieval.sh#L5) and [scripts/evaluate_rerank.sh](scripts/evaluate_rerank.sh#L5) to the folder that contains cocodr-large weight.
 * Download the pretrained checkpoints of [monot5-3b-msmarco-10k](https://huggingface.co/castorini/monot5-3b-msmarco-10k). Modify the corresponding context in [rerank_util.py](rerank_util.py#L91) to the folder that contains monot5-3b-msmarco-10k weight.
-* Download the checkpoints of ControlRetriever from [Here]() and put ```model.ckpt``` into the ```checkpoint``` folder.
+* Download the checkpoints of ControlRetriever from [Here](https://drive.google.com/file/d/1jKXYiAJOWqQ_7xYuwQK4-BiOF7VJQEXC/view?usp=sharing) and put ```model.ckpt``` into the ```checkpoint``` folder.
 
 ## Retrieval & Rerank
 To leverage ControlRetriever for zero-shot retrieval & rerank, you can refer to the scripts provided at [scripts/evaluate_retrieval.sh](scripts/evaluate_retrieval.sh) and [scripts/evaluate_rerank.sh](scripts/evaluate_rerank.sh).
