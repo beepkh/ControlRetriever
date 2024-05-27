@@ -1,0 +1,15 @@
+{"dataset": "nq", "_id": "ins_01", "text": "retrieve passages from Wikipedia that provides answers to the following question."}
+{"dataset": "trec-covid", "_id": "ins_02", "text": "Retrieve Scientific paper paragraph to answer this question."}
+{"dataset": "nfcorpus", "_id": "ins_03", "text": "Retrieve Scientific paper paragraph to answer this question."}
+{"dataset": "fiqa", "_id": "ins_04", "text": "Find financial web article paragraph to answer."}
+{"dataset": "arguana", "_id": "ins_05", "text": "Retrieve an argument that counter argues the following paragraph."}
+{"dataset": "webis-touche2020", "_id": "ins_06", "text": "You have to retrieve an argument to this debate question."}
+{"dataset": "dbpedia-entity", "_id": "ins_07", "text": "Retrieve a Wikipedia introduction paragraph of the following entity."}
+{"dataset": "scidocs", "_id": "ins_08", "text": "Find scientific paper titles that are related to the following."}
+{"dataset": "climate-fever", "_id": "ins_09", "text": "I want to know if the following claim is true or not. Retrieve a Wikipedia paragraph on climate change for this."}
+{"dataset": "scifact", "_id": "ins_10", "text": "Retrieve a scientific paper sentence to verify if the following claim is true."}
+{"dataset": "fever", "_id": "ins_11", "text": "Retrieve a Wikipedia paragraph to verify this claim."}
+{"dataset": "hotpotqa", "_id": "ins_12", "text": "Find a paragraph that provides useful information to answer this question."}
+{"dataset": "quora", "_id": "ins_13", "text": "Check if a Quora question is duplicated with this question."}
+{"dataset": "msmarco", "_id": "ins_14", "text": "I want to know the answer to the question. Can you find good evidence on the web?"}
+{"dataset": "cqadupstack", "_id": "ins_15", "text": "I want to identify duplicate questions asked in community question answering forums."}
