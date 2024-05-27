@@ -5,6 +5,8 @@ ControlRetriever: Harnessing the Power of Instructions for Controllable Retrieva
 
 This repo contains the PyTorch implementation of [ControlRetriever: Harnessing the Power of Instructions for Controllable Retrieval](https://arxiv.org/abs/2308.10025v1/)
 
+## News
+
 :star_struck: The upgrade version of ControlRetriever —— [I3: Intent-Introspective Retrieval Conditioned on Instructions](https://arxiv.org/abs/2308.10025/) has been accepted by **SIGIR 2024**.
 
 ## Installation 
