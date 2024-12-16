@@ -35,12 +35,19 @@ Our project is developed based on the following repositories:
 ## Citation
 If you found this work useful, please consider  citing our paper as follows:
 ```
-@misc{pan2024i3,
-      title={I3: Intent-Introspective Retrieval Conditioned on Instructions}, 
-      author={Kaihang Pan and Juncheng Li and Wenjie Wang and Hao Fei and Hongye Song and Wei Ji and Jun Lin and Xiaozhong Liu and Tat-Seng Chua and Siliang Tang},
-      year={2024},
-      eprint={2308.10025},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{pan2024i3,
+  title={I3: I ntent-i ntrospective retrieval conditioned on i nstructions},
+  author={Pan, Kaihang and Li, Juncheng and Wang, Wenjie and Fei, Hao and Song, Hongye and Ji, Wei and Lin, Jun and Liu, Xiaozhong and Chua, Tat-Seng and Tang, Siliang},
+  booktitle={Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={1839--1849},
+  year={2024}
+}
+```
+```
+@article{pan2023controlretriever,
+  title={Controlretriever: Harnessing the power of instructions for controllable retrieval},
+  author={Pan, Kaihang and Li, Juncheng and Song, Hongye and Fei, Hao and Ji, Wei and Zhang, Shuo and Lin, Jun and Liu, Xiaozhong and Tang, Siliang},
+  journal={arXiv preprint arXiv:2308.10025},
+  year={2023}
 }
 ```
